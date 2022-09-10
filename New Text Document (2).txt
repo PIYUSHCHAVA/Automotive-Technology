@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>COMMECTED MOBILE APP</title>
+</head>
+</html>

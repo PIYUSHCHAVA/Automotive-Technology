@@ -1,0 +1,32 @@
+<html>
+<head>
+	<title>exit warning to protect cyclist</title.
+</head>
+<body background="images.jpg">
+<h1><center><u>EXIT WARNING TO PROTECT CYCLIST</u></center></h1>
+<center><img src="5.2drivers-forced-give-way-cyclists-road-UK-Highway-Code-1559659.jpg" width 720" height="360" border="23"></center>
+<p>
+<h3>
+<center>
+</center>
+Audi’s all-new A8 limo is set to introduce a new technology aimed at reducing the risk to passing cyclists. The Exit Warning system 
+scans the area behind a parked vehicle and will lock the doors until the coast is clear to protect passers by.
+
+While cyclist safety is the primary aim of the system, Exit Warning will also keep the doors closed for passing cars and trucks reducing 
+not only the risk of injury, but also ensuring the A8 (and any passing vehicles) won't require an expensive trip to a body repair shop.
+
+The new system is an extension of technology already found in Audi vehicles including the A4 range and Q7 SUV which use warning lights to
+ alert occupant to the presence of an oncoming bicycle or other traffic. The A8 steps up its level of protection by physically blocking an incident from occurring.
+
+The A8 has a number of ultrasonic radar sensors on its front and rear bumpers that give it a medium range view of the surrounding world and
+ can alert the driver when it is safe to change lanes, and will be expanded over time to include advanced semi-autonomous functions.
+
+As an extension of that role the rear sensors can also check for traffic, including bicycles, approaching from the rear for up to three minutes
+ after the engine has been turned off.
+
+As with the A4 and Q7, the driver (or anyone else seated next to a door) will see red lights flashing on the door trim if they grab the door
+ handle when a bicycle is approaching from behind.
+</h3>
+</p>
+</body>
+</html>
